@@ -19,7 +19,7 @@
 
 ### :man_technologist: About Me :
 I am a Data science Enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Cambridge, England.
-- :telescope: I’m MSc AI and Bigdata student currently working on my dissertation and looking for Graduate oppurtunities in my area of Interest.
+- :telescope: I’m MSc AI and Big data student currently working on my dissertation and looking for Graduate oppurtunities in my area of Interest.
 
 - :seedling: Exploring Technical Content Writing.
 
