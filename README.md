@@ -19,7 +19,7 @@
 
 ### :man_technologist: About Me :
 I am a Data science Enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Cambridge, England.
-- :telescope: 2.5 years Experience as Machine Learning Researcher. Skilled in developing End to End ML workflows.
+- :telescope: Total 3.5 Years in Software Development. 2.5 years Experience as Machine Learning Researcher. Skilled in developing End to End ML workflows.
 - :seedling: Exploring Technical Content Writing.
 
 - :zap: In my free time, I read Scientific papers and tech articles.
